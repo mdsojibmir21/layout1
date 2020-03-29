@@ -1,0 +1,86 @@
+body{ 
+	margin:0;
+	padding: 0;
+	background: lightgray;
+  }
+  header{
+  	width: 90%;
+  	height: 100px;
+  	background-color: gray;
+  	margin: 0 auto;
+  }
+  .logo h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 0px;
+}
+nav{
+	background-color: gray;
+	width: 90%; 
+	margin:0 auto;
+}
+.nav-bar{
+	height: 110px;
+	text-align: center;
+}
+h1 {
+	font-weight: bold;
+	font-size: 50px;
+	padding-top: 20px;
+	text-align: center;
+}
+.banner{
+	height: 700px; 
+	background-color: gray;
+	width: 90%;
+	margin: 0 auto;
+}
+.banner h1 {
+    padding-top: 300px;
+}
+.container{
+	width: 90%;
+	background-color: gray;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.sidebar {
+    width: 20%;
+    float: left;
+    background-color: gray;
+    height: 381px;
+}
+
+.bodyspace{
+	width: 78%;
+	float: right;
+	background-color: gray;
+	height: 600px;
+}
+
+.sidebar, .bodyspace h1 {
+    padding-top: 219px;
+}
+
+
+footer {
+    width: 90%;
+    height: 100px;
+    background-color: gray;
+    margin: 0 auto;
+    margin-top: 645px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
